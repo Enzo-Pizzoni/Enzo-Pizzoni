@@ -8,7 +8,6 @@
 - SQL
 - TypeScript
 - Java
-- Python
 - Git
 
 ## Certificações
