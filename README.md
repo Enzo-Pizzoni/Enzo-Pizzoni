@@ -1,16 +1,31 @@
-## Hi there 👋
+# Olá, eu sou Enzo Pizzoni 👋
 
-<!--
-**Enzo-Pizzoni/Enzo-Pizzoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Inteligência Artificial e Ciência de Dados - Instituto Mauá de Tecnologia
 
-Here are some ideas to get you started:
+## Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- SQL
+- TypeScript
+- Java
+- AWS
+- Git
+
+## Certificações
+
+- AWS Academy Graduate - Data Engineering
+- IBM Cloud Computing Fundamentals
+- IBM Web Development Fundamentals
+
+## Projetos
+
+### Sistema de Monitoramento de Sudorese para Atletas
+Aplicativo multiplataforma para monitoramento de hidratação e sudorese.
+
+### Show do Milhão
+Jogo desenvolvido em Python com CustomTkinter e banco de dados MySQL.
+
+## Contato
+
+LinkedIn:
+www.linkedin.com/in/enzo-pizzoni
