@@ -8,7 +8,7 @@
 - SQL
 - TypeScript
 - Java
-- AWS
+- Python
 - Git
 
 ## Certificações
@@ -23,7 +23,7 @@
 Aplicativo multiplataforma para monitoramento de hidratação e sudorese.
 
 ### Show do Milhão
-Jogo desenvolvido em Python com CustomTkinter e banco de dados MySQL.
+Jogo desenvolvido em Java para facilitar o aprendizado de alunos.
 
 ## Contato
 
